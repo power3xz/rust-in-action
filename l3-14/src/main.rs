@@ -27,7 +27,7 @@ impl File {
     fn read(self: &File, save_to: &mut Vec<u8>) -> Result<usize, String> {
         let mut tmp = self.data.clone();
         let read_length = tmp.len();
-        save_to.reverse();
+        save_to.reserve(read_length);
         save_to.append(&mut tmp);
         Ok(read_length)
     }
