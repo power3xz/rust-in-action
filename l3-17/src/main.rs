@@ -61,3 +61,7 @@ fn main() {
     println!("{} is {} bytes long", &f5.name, f5_length);
     println!("{}", text);
 }
+
+// Error checking is working
+// File { name: "5.txt", data: [], state: Closed }
+// 5.txt is 0 bytes long
