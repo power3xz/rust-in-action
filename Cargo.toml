@@ -46,6 +46,7 @@ members = [
   "l4-4",
   "l4-7",
   "l4-8",
+  "l4-9",
   "grep-lite",
   "filebasics"
 ]
