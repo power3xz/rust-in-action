@@ -54,6 +54,7 @@ members = [
   "l5-3",
   "l5-4",
   "l5-5",
+  "l5-6",
   "grep-lite",
   "filebasics"
 ]
