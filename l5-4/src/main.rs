@@ -5,7 +5,7 @@ fn main() {
     loop {
         i += 1000;
         print!("{}..", i);
-        if i % 10000 ==0 {
+        if i % 10000 == 0 {
             println!();
         }
     }
