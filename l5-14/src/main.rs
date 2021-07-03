@@ -70,5 +70,5 @@ mod tests {
 }
 
 fn main() {
-    println("Q7 test")
+    println!("Q7 test")
 }
