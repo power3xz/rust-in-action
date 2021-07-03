@@ -63,6 +63,7 @@ members = [
   "l6-4",
   "l6-5",
   "l6-6",
+  "l6-7",
   "grep-lite",
   "filebasics",
   "chip-8"
